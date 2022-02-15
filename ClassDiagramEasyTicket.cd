@@ -1,0 +1,104 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="EasyTicket.Forms.Login" Collapsed="true">
+    <Position X="9.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AggAAAAAACAQADAAAAKABAACAAAAAAAAgBAAARBAAgA=</HashCode>
+      <FileName>App_UI\Forms\Login_Register\Login.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EasyTicket.Register" Collapsed="true">
+    <Position X="9.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>80iIAABCACISArEIAACAIAACAArAAIAIAFAAAQCkAFA=</HashCode>
+      <FileName>App_UI\Forms\Login_Register\Register.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EasyTicket.DB" Collapsed="true">
+    <Position X="7.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgACAAACEAAAAAAAAACAAAAAAAAAAAAAAQAARIAAAE=</HashCode>
+      <FileName>DB.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EasyTicket.Program" Collapsed="true">
+    <Position X="7.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EasyTicket.VerifyPassword" Collapsed="true">
+    <Position X="6" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAAACAQABAAAAGFAAACAAAAAAAAAAQAAAEIAAA=</HashCode>
+      <FileName>VerifyPassword.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EasyTicket.Forms.Main_Menu.AccountSettings" Collapsed="true">
+    <Position X="4.25" Y="0.75" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>EUAAABIBACAQABEAAAOBAAAiAAAAAIAAAUAAAQQAAAA=</HashCode>
+      <FileName>App_UI\Forms\Main_Menu\Account_Settings\AccountSettings.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EasyTicket.Forms.Main_Menu.Main_Menu" Collapsed="true">
+    <Position X="4.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAgBAAAAGEAABABABDBEAAOAAAAAAEAAAAAAQAAAAA=</HashCode>
+      <FileName>App_UI\Forms\Main_Menu\MainMenu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EasyTicket.Forms.Main_Menu.Pay" Collapsed="true">
+    <Position X="6" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAARABACARADEABAORiAACAAAIAASAgCwAACAQAAI=</HashCode>
+      <FileName>App_UI\Forms\Main_Menu\Pay.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EasyTicket.Forms.Main_Menu.TopupAccount" Collapsed="true">
+    <Position X="7.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAABACAUADEAgAODICACEAAAAgQAACgAAQcAACA=</HashCode>
+      <FileName>App_UI\Forms\Main_Menu\TopupAccount.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EasyTicket.Forms.Main_Menu.TripHistory" Collapsed="true">
+    <Position X="9.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAAACEQABAAAAKBAAACAABAAAgAAAQAgIAAAAA=</HashCode>
+      <FileName>App_UI\Forms\Main_Menu\TripHistory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EasyTicket.App_UI.Forms.Main_Menu.Account_Settings.Change_Password" Collapsed="true">
+    <Position X="6" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAACAQADREAACBAAACAAAAAIAAABAQAAEEAAA=</HashCode>
+      <FileName>App_UI\Forms\Main_Menu\Account_Settings\Change_Password.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EasyTicket.App_UI.Forms.Main_Menu.Account_Settings.Update_Personal_Info" Collapsed="true">
+    <Position X="4.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>iVAAABAABCASCJEQAAKBAAACAAAAIIAAACQQAAAAAAA=</HashCode>
+      <FileName>App_UI\Forms\Main_Menu\Account_Settings\Update_Personal_Info.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EasyTicket.Properties.Resources" Collapsed="true">
+    <Position X="4.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EasyTicket.Properties.Settings" Collapsed="true">
+    <Position X="6" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
